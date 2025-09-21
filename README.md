@@ -34,6 +34,9 @@ This project is a simple Django web application created for the purpose of getti
 - `first_web/` - Main app
 - `templates/` - HTML templates
 
+## Project Structure
+<img width="519" height="282" alt="image" src="https://github.com/user-attachments/assets/4de51d46-752b-44e5-815d-5804ea653f8d" />
+
 ---
 
 This project is for learning and demonstration purposes only.
